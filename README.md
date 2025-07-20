@@ -19,7 +19,7 @@ from transformers import MarianMTModel, MarianTokenizer         # модели �
 
 ### Просмотр и запуск
 
-Для просмотра и запуска кода необходимо перейти в [Googlr Colab](https://colab.research.google.com/drive/1716OtZRTNrS3cBznKZm0VV173AhJ37vA#scrollTo=3w5RcNfEQb7T).
+Для просмотра и запуска кода необходимо перейти в [Google Colab](https://colab.research.google.com/drive/1716OtZRTNrS3cBznKZm0VV173AhJ37vA#scrollTo=3w5RcNfEQb7T).
 
 **Примечание!!!**
 
